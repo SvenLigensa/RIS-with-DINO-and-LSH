@@ -7,7 +7,9 @@ It implements a two-step pipeline:
 
 ## Code Structure
 
-{TODO: Figure: Code Structure Overview}
+<div align="center">
+    <img width=75% alt="" src=".github/pipeline_overview.png">
+</div>
 
 ```
 ├── LICENSE
