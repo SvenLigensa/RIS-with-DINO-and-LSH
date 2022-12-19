@@ -8,7 +8,7 @@ It implements a two-step pipeline:
 ## Code Structure
 
 <div align="center">
-    <img width=75% alt="" src=".github/pipeline_overview.png">
+    <img width=50% alt="" src=".github/pipeline_overview.svg">
 </div>
 
 ```
