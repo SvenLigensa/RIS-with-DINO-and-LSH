@@ -1,0 +1,44 @@
+Patch Index; Patch Description; Tiny; Tiny Longer; Small; Small Pretrained
+2; Field with street; 64; 82; 86; 92
+7; Plain field; 100; 100; 100; 99
+11; Dirtland; 100; 94; 96; 93
+18; Grass field with traces; 100; 99; 95; 98
+20; Semi-dense woods; 100; 100; 100; 100
+21; Field (green, brown); 91; 67; 66; 74
+23; Dense wood; 100; 100; 100; 100
+28; Light field; 68; 70; 93; 95
+61; Water with waves; 100; 100; 100; 100
+75; Water w/o waves; 100; 100; 100; 100
+; Average; 92.30; 91.20; 93.60; 95.10
+1; Field, trees; 47; 47; 47; 48
+6; Small river; 47; 45; 48; 49
+10; Country road, field; 36; 33; 34; 36
+17; Bigger farm; 48; 49; 49; 49
+37; Dirtland, few houses; 30; 28; 36; 38
+42; City houses; 50; 50; 50; 50
+93; Large street; 49; 49; 49; 49
+153; Trees in clusters, field; 21; 25; 21; 17
+154; Street with road markings; 10; 9; 12; 14
+175; Containers; 5; 16; 9; 12
+324; Factory hall; 46; 47; 49; 48
+549; Interesting texture; 45; 49; 47; 46
+734; Greenhouses; 2; 7; 20; 11
+757; Rails; 6; 7; 7; 7
+813; Dense houses; 36; 41; 43; 45
+1109; Swampy area; 30; 31; 30; 31
+1168; Multiple rails; 10; 14; 14; 10
+1198; Long row house; 12; 17; 8; 8
+1290; Large factory; 17; 22; 38; 23
+1489; Water, path, rocks; 21; 10; 19; 21
+; Average; 56.8; 59.6; 63; 61.2
+14; Field with rails; 2; 7; 6; 3
+25; Street with cars, water, trees; 2; 3; 0; 3
+44; Grass, cows/sheep; 1; 0; 1; 2
+57; Big houses, playground, parking lot; 2; 1; 1; 3
+217; Heaps of sand/pebble; 3; 2; 10; 6
+420; Swimming pool; 0; 0; 0; 0
+685; Wind turbine; 0; 1; 0; 0
+817; Houses, trampoline; 4; 4; 4; 5
+1011; Soccer field; 1; 1; 3; 3
+1355; Boat on water; 4; 3; 3; 4
+; Average; 9.5; 11; 14; 14.5

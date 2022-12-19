@@ -1,0 +1,4 @@
+Task, Tiny, Tiny Longer, Small, Small Pretrained
+(ViT) Extract Features (s), 481, 486, 492, 495
+(LSH) Generate Index (s) (Average of 1000 runs), 1.247982375, 1.253413455, 2.184222183, 2.038521472
+(LSH) Query Index (ms/instance) (Average of 2 million queries with k=100), 0.4576628279, 0.4174430502, 0.5975710817, 0.5846236818
